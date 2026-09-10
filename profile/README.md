@@ -29,5 +29,4 @@ articles and reproducible examples
 ## Links
 
 - Website: https://kamakuraquantlab.jp
-- Articles: Zenn profile URL
-- Store: STORES URL
+- Articles: https://zenn.dev/kamakuraquant
